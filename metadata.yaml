@@ -15,6 +15,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/44231
     - http://en.wikipedia.org/wiki/Ambrose_Bierce
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43951#The-Cynic-s-Word-Book
 gutenberg_issued: '2013-10-14'
 gutenberg_type: Text
 identifiers:
